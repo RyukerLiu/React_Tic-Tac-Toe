@@ -1,6 +1,6 @@
-# [React Tic-Tac-Toe](https://ryukerliu.github.io/Tic-Tac-Toe/)
+# [React Tic-Tac-Toe](https://ryukerliu.github.io/React_Tic-Tac-Toe/)
 
-Github Page with React: https://ryukerliu.github.io/Tic-Tac-Toe/
+Github Page with React: https://ryukerliu.github.io/React_Tic-Tac-Toe/
 
 reference: https://github.com/gitname/react-gh-pages
 
