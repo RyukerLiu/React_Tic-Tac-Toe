@@ -1,3 +1,11 @@
+# React Tic-Tac-Toe
+
+[The react tutorial](https://reactjs.org/tutorial/tutorial.html)
+
+Create environment with `npx create-react-app my-app`
+
+---
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
